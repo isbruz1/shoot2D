@@ -1,0 +1,5 @@
+node_modules/
+players.json
+players.json.tmp
+.env
+env.txt
